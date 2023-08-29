@@ -1,5 +1,3 @@
-# snippet-test-cypress
-
 # Snippet Test - LG Vast
 ![Test Runtime]() ![GitHub contributors]()
 

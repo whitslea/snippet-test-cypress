@@ -22,6 +22,3 @@ This testing framework is a WIP for https://video-tag-builder.kargo.com and buil
 ## ✍🏿 - Writing Tests
 
 To add new tests, simply add test cases under cypress/e2e. See existing tests or Cypress documentation for more information.
-
-## Issue Found
-- After successful creating a VAST - Instream Snippet, an error message says "Uploading file, please wait until it is complete" but never finishes. This happens in both manual and automated testing.

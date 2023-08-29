@@ -7,7 +7,7 @@ This testing framework is a WIP for https://video-tag-builder.kargo.com and buil
 - Make sure you have [Node.js](https://nodejs.org/en/download/) installed
 
 ## 💻 - Getting Started 
-- `git clone https://github.com/whitslea/Kargo-TakeHomeChallenge.git` OR Download folder
+- `git clone https://github.com/whitslea/snippet-test-cypress.git` OR Download folder
 - `npm install`
 - Make sure Cypress `e2e` folder is installed and configured via Cypress Dashboard
 
